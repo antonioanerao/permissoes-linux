@@ -2,24 +2,24 @@
 ## Repositório para eu lembrar as permissões Linux
 
 ### Valor das permissões
-r => 4
-w => 2
-x => 1
+r => 4 <br>
+w => 2 <br>
+x => 1 <br>
 
 ### Significado das permissões
-r => read / ler
-w => write / escrever
-x => execute / executar
+r => read / ler <br>
+w => write / escrever <br>
+x => execute / executar <br>
 
 #### Siglas para usar com chmod
-a => all / todos
-u => user / usuario
-g => group / grupo
-o => others / outros
+a => all / todos <br>
+u => user / usuario <br>
+g => group / grupo <br>
+o => others / outros <br>
 
 ### Infos adicionais
-chmod => modifica permissões de arquivos/dir
-chown => modifica o dono e/ou grupo do arquivo/dir
+chmod => modifica permissões de arquivos/dir <br>
+chown => modifica o dono e/ou grupo do arquivo/dir <br>
 
 #### Ex1: Deixar as mesmas permissões para usuários, grupos e outros
 #chmod a=rwx nome-arquivo
