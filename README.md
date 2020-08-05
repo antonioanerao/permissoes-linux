@@ -1,5 +1,5 @@
 # Permissões Linux
-## Repositório para eu lembrar as permissões Linux
+### Repositório para eu lembrar as permissões Linux
 
 ### Valor das permissões
 r => 4 <br>
