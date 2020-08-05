@@ -19,8 +19,8 @@ o => others / outros <br>
 
 ### Infos adicionais
 chmod => modifica permissões de arquivos/dir <br>
-chown => modifica o dono e/ou grupo do arquivo/dir <br>
-Para adicionar permissão a um arquivo/pasta usando os valores de RWX soma-se o valor das permissões para adicionar ao usuário, grupo e outros, Ex: #chmod 755 nome-arquivo irá adicionar permissões RWX ao usuário, RX ao grupo e RX aos outros
+chown => modifica o dono e/ou grupo do arquivo/dir <br> <br>
+Para adicionar permissão a um arquivo/pasta usando os valores de RWX soma-se o valor das permissões para adicionar ao usuário, grupo e outros, Ex: <b>#chmod 755 nome-arquivo</b> irá adicionar permissões RWX ao usuário, RX ao grupo e RX aos outros
 
 #### Ex1: Deixar as mesmas permissões para usuários, grupos e outros
 #chmod a=rwx nome-arquivo
