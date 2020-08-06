@@ -11,7 +11,7 @@ r => read / ler <br>
 w => write / escrever <br>
 x => execute / executar <br>
 
-#### Siglas para usar com chmod
+### Siglas para usar com chmod
 a => all / todos <br>
 u => user / usuario <br>
 g => group / grupo <br>
